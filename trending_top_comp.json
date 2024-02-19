@@ -1,0 +1,24 @@
+{
+  "data": {
+    "rankings": [
+      {
+        "floorPrice": 0,
+        "volume": 0,
+        "tokeId": "",
+        "logo": "https://i.seadn.io/gae/lHexKRMpw-aoSyB1WdFBff5yfANLReFxHzt1DOj_sg7mS14yARpuvYcUtsyyx-Nkpk6WTcUPFoG53VnLJezYi8hAs0OxNZwlw6Y-dmI?w=500&auto=format",
+        "name": "Mutant Ape Yacht Club",
+        "slug": "mutant-ape-yacht-club"
+      }
+    ],
+    "trendingCollections": [
+      {
+        "floorPrice": 0,
+        "volume": 0,
+        "tokeId": "",
+        "logo": "https://i.seadn.io/gae/lHexKRMpw-aoSyB1WdFBff5yfANLReFxHzt1DOj_sg7mS14yARpuvYcUtsyyx-Nkpk6WTcUPFoG53VnLJezYi8hAs0OxNZwlw6Y-dmI?w=500&auto=format",
+        "name": "Mutant Ape Yacht Club",
+        "slug": "mutant-ape-yacht-club"
+      }
+    ]
+  }
+}
