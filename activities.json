@@ -14,9 +14,9 @@
         "address": "0x7c1958ba95ab3170f6069dadf4de304b0c00000c",
         "username": "Khalissman"
       },
-      "toTrader": null,
+      "toTrader": "0x7c1958ba95ab3170f6069dadf4de657b0c00000c",
       "createdAt": "2023-11-30T22:22:55.235Z",
-      "transactionHash": null,
+      "transactionHash": "0xaac1ef8d8f27e4413565b5cae235e1cd0a4a1b82dedddf278ddf95c5da793178",
       "marketplace": "OPENSEA",
       "makerSide": null
     }
